@@ -32,7 +32,7 @@ label_2.grid(row=0, column=1, pady=10, padx=50)
 entry_location_2 = customtkinter.CTkEntry(master=box, width=200, height=50, text_color='black')
 entry_location_2.grid(row=1, column=1, padx=50, pady=50)
 
-API_KEY = "ab4f52710430e6e8da921ac87d6f1fd7"
+API_KEY = "YOUR API KEY"
 
 def weather_condition():
     """ Provides weather conditions for flight"""
